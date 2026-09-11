@@ -120,14 +120,11 @@ the website.
 
 ------------------------------------------------------------------------
 
-## Full Website Preview
+## Live Website Preview
 
-A complete long-form preview of the website design and its major
-sections:
+🔗 [View Wiggins Hair Live Website](https://mystore123-drrzxz41.myshopify.com/)
 
-![Wiggins Hair Full Website
-Preview](https://mystore123-drrzxz41.myshopify.com/)
-Pass: wigs
+**Store Password:** `wigs`
 
 ------------------------------------------------------------------------
 
