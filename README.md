@@ -62,7 +62,7 @@ introduces the brand, highlights key wig categories, showcases best
 sellers and new arrivals, promotes seasonal offers, and guides shoppers
 toward relevant collections.
 
-![Wiggins Hair Home Page](Home%20page%20wigs%281%29.webp)
+![Wiggins Hair Home Page](Home%20page%20wigs.webp)
 
 ------------------------------------------------------------------------
 
@@ -126,7 +126,8 @@ A complete long-form preview of the website design and its major
 sections:
 
 ![Wiggins Hair Full Website
-Preview](8da66f15-c8d3-49db-bfe9-8e9d7b24a509.png)
+Preview](https://mystore123-drrzxz41.myshopify.com/)
+Pass: wigs
 
 ------------------------------------------------------------------------
 
