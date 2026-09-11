@@ -1,0 +1,41 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "page-contact",
+      "settings": {
+        "container": "w-full"
+      }
+    },
+    "contact-form": {
+      "type": "contact-form",
+      "custom_css": [
+        ".m-contact-form__heading,.m-info-box__title {font-weight: 500;}"
+      ],
+      "settings": {
+        "container": "w-full",
+        "title": "We would love to hear from you.",
+        "heading_size": "h4",
+        "description": "<p>If you’ve got great products your making or looking to work with us then drop us a line.</p>",
+        "show_name": true,
+        "show_phone": false,
+        "show_signup_email": false,
+        "padding_top": 60,
+        "padding_bottom": 0,
+        "animations": "inherit"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "contact-form"
+  ]
+}

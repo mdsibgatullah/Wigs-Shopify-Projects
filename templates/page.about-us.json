@@ -1,0 +1,157 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "page-about-us",
+      "disabled": true,
+      "settings": {}
+    },
+    "rich_text_jDAxth": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_A9nGTX": {
+          "type": "heading",
+          "settings": {
+            "heading": "Beauty That Feels Like You",
+            "heading_size": "h2"
+          }
+        },
+        "text_a37pBR": {
+          "type": "text",
+          "settings": {
+            "text": "<p>We believe the perfect wig should do more than transform your look—it should enhance your confidence. Our collection is designed to deliver natural beauty, effortless style, and a flawless finish for every moment.</p>",
+            "text_size": "text-base"
+          }
+        }
+      },
+      "block_order": [
+        "heading_A9nGTX",
+        "text_a37pBR"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "container": "container",
+        "color_scheme": "",
+        "content_alignment": "center",
+        "padding_top": 52,
+        "padding_bottom": 52,
+        "custom_class": "",
+        "animations": "inherit"
+      }
+    },
+    "image_with_text_xdTgHT": {
+      "type": "image-with-text",
+      "name": "Image with text",
+      "settings": {
+        "heading": "",
+        "heading_size": "h3",
+        "subheading": "",
+        "container": "container-fluid",
+        "color_scheme": "footer",
+        "item_gap": 40,
+        "item_gap_mobile": 10,
+        "layout": "left",
+        "image_column_size": "7",
+        "image_overlap": false,
+        "show_image_reverse": false,
+        "hover_effect": false,
+        "image_animation": "none",
+        "image": "shopify://shop_images/banner7.webp",
+        "link": "shopify://collections",
+        "link_2": "",
+        "second_image_offset_top": 10,
+        "sub_title": "",
+        "title": "Premium Hair, <br>Exceptional Quality",
+        "text_size": "h2",
+        "text": "<p>Quality is at the heart of everything we offer. From soft, natural-looking textures to beautifully crafted hairlines, every detail is selected to give you a luxurious look and comfortable experience.</p>",
+        "desc_size": "text-base",
+        "content_alignment": "left",
+        "button_label": "Shop Collection",
+        "button_link": "shopify://collections/all",
+        "button_style": "m-button--link",
+        "button_size": "",
+        "padding_top": 50,
+        "padding_bottom": 50,
+        "custom_class": "",
+        "animations": "inherit"
+      }
+    },
+    "image_with_text_VMrh9e": {
+      "type": "image-with-text",
+      "name": "Image with text",
+      "settings": {
+        "heading": "",
+        "heading_size": "h3",
+        "subheading": "",
+        "container": "container-fluid",
+        "color_scheme": "default",
+        "item_gap": 50,
+        "item_gap_mobile": 0,
+        "layout": "right",
+        "image_column_size": "7",
+        "image_overlap": false,
+        "show_image_reverse": false,
+        "hover_effect": false,
+        "image_animation": "none",
+        "image": "shopify://shop_images/banner_5.webp",
+        "link": "",
+        "link_2": "shopify://collections/all",
+        "second_image_offset_top": 10,
+        "sub_title": "",
+        "title": "Made for Effortless <br>Confidence",
+        "text_size": "h2",
+        "text": "<p>Great hair shouldn’t feel complicated. Our wigs are created with comfort, versatility, and easy styling in mind, helping you achieve a polished look while staying confidently yourself.</p>",
+        "desc_size": "text-base",
+        "content_alignment": "left",
+        "button_label": "Shop Collection",
+        "button_link": "shopify://collections",
+        "button_style": "m-button--link",
+        "button_size": "",
+        "padding_top": 50,
+        "padding_bottom": 50,
+        "custom_class": "",
+        "animations": "inherit"
+      }
+    },
+    "rich_text_QVJaKR": {
+      "type": "rich-text",
+      "blocks": {
+        "text_HtqRRU": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Whether you love sleek and sophisticated or soft and glamorous, our collection gives you the freedom to express your style. Because when your hair feels right, confidence comes naturally.</p>",
+            "text_size": "text-base"
+          }
+        }
+      },
+      "block_order": [
+        "text_HtqRRU"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "container": "container",
+        "color_scheme": "",
+        "content_alignment": "center",
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "custom_class": "",
+        "animations": "inherit"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "rich_text_jDAxth",
+    "image_with_text_xdTgHT",
+    "image_with_text_VMrh9e",
+    "rich_text_QVJaKR"
+  ]
+}

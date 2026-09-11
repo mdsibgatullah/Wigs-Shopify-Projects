@@ -1,0 +1,200 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "type": "footer",
+  "name": "Footer",
+  "sections": {
+    "footer": {
+      "type": "footer",
+      "blocks": {
+        "custom_text_nYrmVb": {
+          "type": "custom_text",
+          "settings": {
+            "title": "",
+            "heading_size": "h6",
+            "heading_font": "heading",
+            "heading_font_weight": "medium",
+            "image": "shopify://shop_images/logo-black.webp",
+            "image_max": "200px",
+            "description": "<p>We believe the perfect wig should do more than transform your look—it should enhance your confidence. </p>",
+            "text_size": "text-base",
+            "width": "25%",
+            "order_first": true,
+            "enable_accordion": true,
+            "open_default": false
+          }
+        },
+        "spacing_paDz84": {
+          "type": "spacing",
+          "settings": {
+            "width": "25%"
+          }
+        },
+        "menu_zf6JkF": {
+          "type": "menu",
+          "settings": {
+            "menu": "main-menu",
+            "title": "Quick View",
+            "heading_size": "h6",
+            "heading_font": "heading",
+            "heading_font_weight": "medium",
+            "width": "16%",
+            "order_first": false,
+            "enable_accordion": true,
+            "open_default": false
+          }
+        },
+        "menu_daBmGP": {
+          "type": "menu",
+          "settings": {
+            "menu": "footer",
+            "title": "Company",
+            "heading_size": "h6",
+            "heading_font": "heading",
+            "heading_font_weight": "medium",
+            "width": "16%",
+            "order_first": false,
+            "enable_accordion": true,
+            "open_default": false
+          }
+        },
+        "newsletter_eyixhz": {
+          "type": "newsletter",
+          "settings": {
+            "title": "Follow Us",
+            "heading_size": "h5",
+            "heading_font": "heading",
+            "heading_font_weight": "regular",
+            "description": "Enter your email below to be the first to know about new collections and product launches.",
+            "email_placeholder": "Enter your email",
+            "show_icon_input": true,
+            "button_label": "",
+            "button_position": "inline",
+            "button_style": "m-button--primary",
+            "form_style": "bordered",
+            "show_social": true,
+            "show_agree_checkbox": false,
+            "width": "33%",
+            "order_first": true,
+            "enable_accordion": true,
+            "open_default": true
+          }
+        },
+        "our_store_JALRyi": {
+          "type": "our_store",
+          "disabled": true,
+          "settings": {
+            "title": "Follow Us",
+            "heading_size": "h6",
+            "heading_font": "heading",
+            "heading_font_weight": "medium",
+            "description": "",
+            "text_size": "text-base",
+            "show_email": false,
+            "show_phone": false,
+            "show_socials_link": true,
+            "width": "25%",
+            "order_first": false,
+            "enable_accordion": true,
+            "open_default": false
+          }
+        }
+      },
+      "block_order": [
+        "custom_text_nYrmVb",
+        "spacing_paDz84",
+        "menu_zf6JkF",
+        "menu_daBmGP",
+        "newsletter_eyixhz",
+        "our_store_JALRyi"
+      ],
+      "custom_css": [
+        ".social-media-links {gap: 12px; margin: 0; margin-top: 10px; padding: 5px 0;}",
+        ".social-media-links a {color: #222; width: 48px; height: 48px; padding: 0; display: inline-flex; align-items: center; justify-content: center; border-radius: 50%; background-color: #e9e9e9; transition: all 0.3s;}",
+        ".social-media-links a:hover {background-color: #222; color: #fff; box-shadow: 0 0 0 0.2rem #222;}"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "design": "footer-1",
+        "container": "container-fluid",
+        "bordered": false,
+        "copyright": "© Wigs 2026",
+        "show_country_selector": false,
+        "show_currency_selector": false,
+        "show_language_selector": false,
+        "show_social_links": false,
+        "enable_follow_on_shop": true,
+        "show_payment_icons": true,
+        "payment_icons_width": 300,
+        "footer_bottom_color_scheme": "",
+        "footer_bottom_menu": "",
+        "show_menu_item_divider": false
+      }
+    },
+    "mobile-sticky-bar": {
+      "type": "mobile-sticky-bar",
+      "disabled": true,
+      "settings": {
+        "show_mobile_sticky": true,
+        "show_home_icon": true,
+        "show_collection_icon": true,
+        "show_cart_icon": true,
+        "show_search_icon": true,
+        "show_account_icon": false,
+        "show_wishlist_icon": false
+      }
+    },
+    "age-verifier-popup": {
+      "type": "age-verifier-popup",
+      "blocks": {
+        "block-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Confirm your age",
+            "heading_size": "h3"
+          }
+        },
+        "block-2": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Are you 18 years old or older?</p>",
+            "text_size": "text-lg"
+          }
+        },
+        "block-3": {
+          "type": "buttons",
+          "settings": {
+            "decline_button": "No, I'm not",
+            "approve_button": "Yes, I am"
+          }
+        }
+      },
+      "block_order": [
+        "block-1",
+        "block-2",
+        "block-3"
+      ],
+      "disabled": true,
+      "settings": {
+        "design_mode": false,
+        "enable": false,
+        "bg_blur": true,
+        "decline_heading": "Come back when you're older",
+        "decline_content": "<p>Sorry, the content of this store can't be seen by a younger audience. Come back when you're older.</p>",
+        "return_button": "Oops, I entered incorrectly"
+      }
+    }
+  },
+  "order": [
+    "footer",
+    "mobile-sticky-bar",
+    "age-verifier-popup"
+  ]
+}

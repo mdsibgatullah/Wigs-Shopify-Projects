@@ -1,0 +1,322 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "163395609032bcfadc": {
+      "type": "breadcrumb",
+      "settings": {
+        "container": "container-fluid",
+        "text_alignment": "left",
+        "hide_current": false,
+        "hide_on_mb": false,
+        "animations": "inherit"
+      }
+    },
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "title": {
+          "type": "title",
+          "settings": {
+            "heading_size": "h3"
+          }
+        },
+        "price": {
+          "type": "price",
+          "settings": {
+            "show_saving": true,
+            "sale_badge_type": "percentage"
+          }
+        },
+        "9985f73b-9c66-426d-8e41-d1c454c41d61": {
+          "type": "visitors",
+          "settings": {
+            "color_scheme": "",
+            "live_views_text": "{count_number} people are viewing this right now",
+            "live_views_range": "20-30",
+            "live_view_duration": "10",
+            "live_view_icon_blinks": true
+          }
+        },
+        "description_pjCFiD": {
+          "type": "description",
+          "settings": {}
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "size_title": "Size"
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_quantity_selector": true,
+            "show_atc_button": true,
+            "show_dynamic_checkout": true,
+            "show_gift_card_recipient": true
+          }
+        },
+        "addons": {
+          "type": "addons",
+          "settings": {
+            "show_atcp": false,
+            "show_ask_a_question": false,
+            "show_social": true
+          }
+        },
+        "3aaf4309-4283-429c-9b29-4112a50bacb4": {
+          "type": "trust_badge",
+          "settings": {
+            "trust_badges_text": "<p>Guarantee safe & secure checkout</p>",
+            "trust_badges_image_width": "320px",
+            "position": "below"
+          }
+        }
+      },
+      "block_order": [
+        "title",
+        "price",
+        "9985f73b-9c66-426d-8e41-d1c454c41d61",
+        "description_pjCFiD",
+        "variant_picker",
+        "buy_buttons",
+        "addons",
+        "3aaf4309-4283-429c-9b29-4112a50bacb4"
+      ],
+      "settings": {
+        "container": "container-fluid",
+        "layout": "layout-4",
+        "show_atwl": true,
+        "enable_history_state": true,
+        "enable_variant_group_images": true,
+        "disable_selected_variant_default": false,
+        "show_featured_media": false,
+        "show_zoom_button": true,
+        "enable_video_autoplay": false,
+        "show_nav_media_mobile": true,
+        "show_pagination_mobile": false,
+        "use_sticky_atc": false,
+        "use_sticky_atc_on_mobile": false,
+        "enable_dynamic_checkout": false,
+        "sticky_atc_wishtlist": false,
+        "sticky_atc_compare": false
+      }
+    },
+    "product-details-tabs": {
+      "type": "product-details-tabs",
+      "blocks": {
+        "description": {
+          "type": "description",
+          "settings": {
+            "header": "Product description"
+          }
+        },
+        "tab": {
+          "type": "tab",
+          "settings": {
+            "header": "Shipping & Return",
+            "content": "<p>Shipping cost is based on weight. Just add products to your cart and use the Shipping Calculator to see the shipping price.</p><p>We want you to be 100% satisfied with your purchase. Items can be returned or exchanged within 30 days of delivery.</p>",
+            "content_page": ""
+          }
+        }
+      },
+      "block_order": [
+        "description",
+        "tab"
+      ],
+      "disabled": true,
+      "settings": {
+        "container": "container",
+        "color_scheme": "",
+        "default_open": true,
+        "padding_top": 0,
+        "padding_bottom": 100,
+        "custom_class": "",
+        "animations": "inherit"
+      }
+    },
+    "product-recommendations": {
+      "type": "product-recommendations",
+      "settings": {
+        "container": "container-fluid",
+        "color_scheme": "",
+        "remove_params": false,
+        "heading": "Recommended For You",
+        "heading_size": "h3",
+        "text_align": "left",
+        "limit": 8,
+        "columns": 4,
+        "column_gap": 30,
+        "enable_slider": false,
+        "show_pagination": false,
+        "show_navigation": false,
+        "use_scroll_mobile": false,
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "custom_class": "",
+        "animations": "inherit"
+      }
+    },
+    "recent-viewed-products": {
+      "type": "recent-viewed-products",
+      "disabled": true,
+      "settings": {
+        "container": "container-fluid",
+        "color_scheme": "",
+        "heading": "Recently Viewed Products",
+        "heading_size": "h3",
+        "text_align": "center",
+        "limit": 8,
+        "columns": 4,
+        "column_gap": 30,
+        "pcard_layout": "",
+        "pcard_image_ratio": "",
+        "show_vendor": false,
+        "hide_title": false,
+        "enable_slider": true,
+        "show_pagination": false,
+        "show_navigation": false,
+        "mobile_disable_slider": false,
+        "use_scroll_mobile": true,
+        "item_gap_mobile": 16,
+        "padding_top": 100,
+        "padding_bottom": 0,
+        "custom_class": "",
+        "animations": "inherit"
+      }
+    },
+    "product-features": {
+      "type": "icon-box",
+      "blocks": {
+        "d81fff7a-3f85-4706-ad65-adc28ba8f29f": {
+          "type": "iconbox",
+          "settings": {
+            "card_color_scheme": "",
+            "image_by_url": "",
+            "link": "",
+            "title": "Free Shipping",
+            "heading_size": "h4",
+            "description": "<p>Get complimentary ground shipping on every <br/>order. Don’t love it? Send it back, on us.</p>",
+            "text_size": "text-base",
+            "button_label": "Learn More [arrow]",
+            "button_link": "",
+            "button_style": "sf__btn-link",
+            "button_size": ""
+          }
+        },
+        "36c87b76-d4d5-45e4-8807-64a6905160a5": {
+          "type": "iconbox",
+          "settings": {
+            "card_color_scheme": "",
+            "image_by_url": "",
+            "link": "",
+            "title": "Earn Points",
+            "heading_size": "h4",
+            "description": "<p>Join Minimog Rewards to earn gift cards <br/>and enjoy exclusive member benefits.</p>",
+            "text_size": "text-base",
+            "button_label": "Contact Us [arrow]",
+            "button_link": "",
+            "button_style": "sf__btn-link",
+            "button_size": ""
+          }
+        },
+        "ac627247-b97c-4ad0-a893-5a951140e490": {
+          "type": "iconbox",
+          "settings": {
+            "card_color_scheme": "",
+            "image_by_url": "",
+            "link": "",
+            "title": "Money Back Guarantee",
+            "heading_size": "h4",
+            "description": "<p>We believe getting dressed should be the <br/>easiest part of your day.</p>",
+            "text_size": "text-base",
+            "button_label": "Learn More [arrow]",
+            "button_link": "",
+            "button_style": "sf__btn-link",
+            "button_size": ""
+          }
+        }
+      },
+      "block_order": [
+        "d81fff7a-3f85-4706-ad65-adc28ba8f29f",
+        "36c87b76-d4d5-45e4-8807-64a6905160a5",
+        "ac627247-b97c-4ad0-a893-5a951140e490"
+      ],
+      "disabled": true,
+      "custom_css": [
+        ".m-icon-box__heading {font-weight: 500;}"
+      ],
+      "settings": {
+        "container": "container",
+        "color_scheme": "",
+        "use_color_scheme_in_container": false,
+        "heading": "Why Minimog?",
+        "heading_size": "h2",
+        "subheading": "",
+        "description": "",
+        "header_alignment": "center",
+        "item_per_row": 3,
+        "item_gap": 30,
+        "item_gap_mobile": 10,
+        "card_style": "vertical",
+        "image_max_width": "76px",
+        "content_alignment": "center",
+        "hover_effect": "none",
+        "enable_slider": false,
+        "show_pagination": false,
+        "show_navigation": false,
+        "use_scroll_mobile": true,
+        "use_grid_column_mb": false,
+        "padding_top": 100,
+        "padding_bottom": 40,
+        "custom_class": "md:m:hide-br",
+        "animations": "inherit"
+      }
+    },
+    "1789107017bc172e2a": {
+      "type": "apps",
+      "blocks": {
+        "judge_me_reviews_review_widget_aVYALh": {
+          "type": "shopify://apps/judge-me-reviews/blocks/review_widget/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {
+            "review_data": "sample_data",
+            "max_width": 1200,
+            "show_shop_reviews": false,
+            "empty_state": "empty_widget"
+          }
+        }
+      },
+      "block_order": [
+        "judge_me_reviews_review_widget_aVYALh"
+      ],
+      "settings": {
+        "heading": "",
+        "heading_size": "h3",
+        "subheading": "",
+        "header_alignment": "center",
+        "container": "container-fluid",
+        "background_color": "",
+        "padding_top": 50,
+        "padding_bottom": 0,
+        "custom_class": ""
+      }
+    }
+  },
+  "order": [
+    "163395609032bcfadc",
+    "main",
+    "product-details-tabs",
+    "product-recommendations",
+    "recent-viewed-products",
+    "product-features",
+    "1789107017bc172e2a"
+  ]
+}
